@@ -1,4 +1,5 @@
-# Retail Log Analytics Pipeline using Hadoop
+# Distributed Retail Log Analytics Pipeline (Hadoop POC)
+
 
 ## 📌 Overview
 
