@@ -1,0 +1,12 @@
+# Example Sqoop ingestion command (Conceptual)
+
+sqoop import \
+--connect jdbc:postgresql://localhost:5432/retaildb \
+--username postgres \
+--table transactions \
+--target-dir /retail \
+-m 1
+
+Explanation:
+This command demonstrates how structured data from a relational database
+can be imported into HDFS before processing using MapReduce or Hive.
