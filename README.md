@@ -1,5 +1,9 @@
 # Distributed Retail Log Analytics Pipeline (Hadoop POC)
 
+![Hadoop](https://img.shields.io/badge/Hadoop-3.x-yellow)
+![Hive](https://img.shields.io/badge/Hive-Analytics-blue)
+![MapReduce](https://img.shields.io/badge/MapReduce-Streaming-green)
+
 
 ## 📌 Overview
 
